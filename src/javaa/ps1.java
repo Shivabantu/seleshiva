@@ -9,6 +9,7 @@ public class ps1 extends ps {
 		System.out.println(pss.increment());
 		System.out.println(pss.decrement());
 		System.out.println(pss.mutiple());
+		System.out.println("shiva");
 	}
 
 }
